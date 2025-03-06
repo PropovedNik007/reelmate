@@ -14,8 +14,17 @@ module.exports = {
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
         poppins: ['Poppins', 'sans-serif']
-      }
-    },
+      },
+      opacity: {
+        '15': '0.15',
+        '35': '0.35',
+        '65': '0.65',
+      },
+      backgroundOpacity: {
+        '15': '0.15',
+        '35': '0.35',
+        '65': '0.65',
+      },
       backdropBlur: {
         xl: '24px'
       },

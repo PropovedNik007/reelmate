@@ -18,7 +18,7 @@ const config = {
 			// fallback: '404.html'
 			pages: 'build',
 			assets: 'build',
-			fallback: 'index.html'
+			fallback: '404.html'
 		}),
 		paths: {
 			// base,
