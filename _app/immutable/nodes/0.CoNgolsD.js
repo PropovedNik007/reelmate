@@ -1,1 +1,0 @@
-import{c as s,b as i}from"../chunks/spf0JrDB.js";import{z as p,E as f,p as c,A as d,B as m,t as h,d as l,C as _}from"../chunks/Duty1db_.js";function u(t,e,...a){var n=t,o=d,r;p(()=>{o!==(o=e())&&(r&&(m(r),r=null),r=c(()=>o(n,...a)))},f),h&&(n=l)}function E(t,e){var a=s(),n=_(a);u(n,()=>e.children),i(t,a)}export{E as component};
